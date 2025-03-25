@@ -24,3 +24,5 @@ stampa_array(a, n)
 free(a)
 return 0;
 }
+
+// lalalala
